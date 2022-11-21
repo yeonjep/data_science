@@ -1,0 +1,11 @@
+TypeError,'<=' not supported between instances of 'function' and 'function'
+IndentationError,"unexpected indent (<ipython-input-8-f8871597009d>, line 3)"
+AttributeError,'numpy.ndarray' object has no attribute 'where'
+AttributeError,'numpy.ndarray' object has no attribute 'where'
+AttributeError,'function' object has no attribute 'column'
+AttributeError,'numpy.ndarray' object has no attribute 'where'
+AttributeError,'numpy.ndarray' object has no attribute 'where'
+NameError,name 'sampled_leads' is not defined
+NameError,name 'sampled_leads' is not defined
+NameError,name 'sampled_leads' is not defined
+NameError,name 'sampled_leads' is not defined
